@@ -14,11 +14,11 @@ This whole thing is powered by [Quartz](https://github.com/jackyzha0/quartz/) so
 
 # How to navigate
 
-Anything tagged with #seed is a low-level concept, ie something that is taken straight from a resource. These are like basic notes and serve as a growing point. More complex ideas will spring from them.
+[[tags/seed/_index.md|Seeds]] are low-level concepts, ie something that is taken straight from a resource. These are like basic notes and serve as a growing point. More complex ideas will spring from them.
 
-Things tagged as #sapling are extensions of seeds. They're deeper knowledge, going into the nitty gritty for concepts laid out by seeds. Not every seed will have a sapling, and not every sapling comes from a seed. Sometimes multiple saplings come from one seed. You just never know
+[[tags/sapling/_index.md|Saplings]] are extensions of seeds. They're deeper knowledge, going into the nitty gritty for concepts laid out by seeds. Not every seed will have a sapling, and not every sapling comes from a seed. Sometimes multiple saplings come from one seed. You just never know
 
-Finally, things tagged as #fruit are the long-form learning moments.  Fruit are the resulting connections and knowledge gained from the information laid out by seeds and saplings. These are usually essay-esque. 
+[[tags/fruit/_index.md|Fruit]] are the long-form learning moments.  Fruit are the resulting connections and knowledge gained from the information laid out by seeds and saplings. These are usually essay-esque. 
 
 A good way to think about the three categories is that seeds are data, saplings are information, and fruit is knowledge.  
 
