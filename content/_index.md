@@ -1,27 +1,15 @@
 ---
-title: 🪴 Quartz 3.
+title: NateGB Digital Garden.
 enableToc: false
 ---
 
-Host your second brain and [digital garden](https://jzhao.xyz/posts/networked-thought) for free. Quartz features
 
-1. Extremely fast natural-language [[notes/search]]
-2. Customizable and hackable design based on [Hugo](https://gohugo.io/)
-3. Automatically generated backlinks, link previews, and local graph
-4. Built-in [[notes/CJK + Latex Support (测试) | CJK + Latex Support]] and [[notes/callouts | Admonition-style callouts]]
-5. Support for both Markdown Links and Wikilinks
+# What is a digital garden?
 
-Check out some of the [amazing gardens that community members](notes/showcase.md) have published with Quartz or read about [why I made Quartz](notes/philosophy.md) to begin with.
+This digital garden is a place to collect and organize my thoughts. Some people refer to this as a "second brain," but I barely have a firm grasp on my own meat-brain so I'd much rather think of this like a collection or reference database than have a whole other brain to worry about.
 
-## Get Started
-> 📚 Step 1: [Setup your own digital garden using Quartz](notes/setup.md)
+Ideally I'll keep this updated and current as I cram more knowledge and information into my head, but we all know this is going to end up as sporadic bursts of info-dumping. The ultimate goal is to try to connect different pieces of knowledge an deepen my understanding of more complex topics.
 
-Returning user? Figure out how to [[notes/updating|update]] your existing Quartz garden.
+This whole thing is powered by [Quartz](https://github.com/jackyzha0/quartz/) so shout out to Jacky Zhao. If you want to  earn more about that, check out Jacky's own [digital garden](https://jzhao.xyz).
 
-If you prefer browsing the contents of this site through a list instead of a graph, you see a list of all [setup-related notes](/tags/setup).
-
-### Troubleshooting
-- 🚧 [Troubleshooting and FAQ](notes/troubleshooting.md)
-- 🐛 [Submit an Issue](https://github.com/jackyzha0/quartz/issues)
-- 👀 [Discord Community](https://discord.gg/cRFFHYye7t)
-
+In the meantime, let's get growing!
