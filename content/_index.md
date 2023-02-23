@@ -1,5 +1,5 @@
 ---
-title: NateGB Digital Garden.
+title: NateGB Digital Garden
 enableToc: false
 ---
 
