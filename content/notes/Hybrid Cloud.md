@@ -2,10 +2,8 @@
 title: "Hybrid Cloud"
 tags:
 - cloud computing
-- comptia
-- wgu
 - sy0-601
 - seed
 ---
 
-Hybrid clouds utilize on-premises resources 
+Hybrid clouds utilize on-premises resources combined with off-premises resources. Great for [[elasticity]] during intermittent busy seasons for smaller companies.
