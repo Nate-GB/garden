@@ -8,12 +8,13 @@ tags:
 ---
 
 # Types of cloud computing service models:
-- [[notes/SaaS|SaaS]] (Software as a service)
-- [[notes/IaaS|IaaS]] (Infrastructure as a service)
-- [[notes/PaaS|PaaS]] (Platform as a service)
+- [[SaaS]] (Software as a service)
+- [[IaaS]] (Infrastructure as a service)
+- [[PaaS]] (Platform as a service)
 
 # Types of cloud computing:
-- [[notes/Public|Public]]
-- [[notes/Private|Private]]
-- [[notes/Community|Community]]
-- [[notes/hybrid|Hybrid]]
+- [[Public Cloud]]
+- [[Private Cloud]]
+- [[Community Cloud]]
+- [[Hybrid Cloud]]
+
