@@ -1,8 +1,8 @@
 ---
 title: "Risk Transference"
 tags:
-- cloud computing
-- sy0-061
+- cloud
+- security
 - seed
 ---
 

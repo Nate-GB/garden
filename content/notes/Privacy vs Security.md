@@ -1,7 +1,6 @@
 ---
 title: "Privacy vs Security"
 tags:
-- sy0-061
 - seed
 - security
 ---

@@ -20,7 +20,7 @@ This whole thing is powered by [Quartz](https://github.com/jackyzha0/quartz/) so
 
 [[tags/fruit/|Fruit]] are the long-form learning moments.  Fruit are the resulting connections and knowledge gained from the information laid out by seeds and saplings. These are usually essay-esque. 
 
-A good way to think about the three categories is that seeds are data, saplings are information, and fruit is knowledge.  
+A good way to think about the three categories is that seeds are notecards, saplings are articles, and fruit are essays.  
 
 With all that out of the way, let's get growing!
 

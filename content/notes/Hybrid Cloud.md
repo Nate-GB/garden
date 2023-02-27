@@ -1,8 +1,7 @@
 ---
 title: "Hybrid Cloud"
 tags:
-- cloud computing
-- sy0-601
+- cloud
 - seed
 ---
 

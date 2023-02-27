@@ -1,7 +1,7 @@
 ---
 title: "Data Roles and Responsibilities"
 tags:
-- sy0-061
+- data
 - sapling
 - security
 ---

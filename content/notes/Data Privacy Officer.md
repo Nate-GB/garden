@@ -2,7 +2,8 @@
 title: "Data Privacy Officer"
 tags:
 - seed
-- sy0-0651
+- data
+- security
 ---
 
 Ensures that the processing, disclosure, and retention of PII ([[Personally Identifiable Information]]) complies with legal and regulatory frameworks

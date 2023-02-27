@@ -1,7 +1,7 @@
 ---
 title: "Fog Computing"
 tags:
-- sy0-601
+- security
 - seed
 ---
 

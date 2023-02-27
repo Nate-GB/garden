@@ -2,7 +2,6 @@
 title: "Data Classifications"
 tags:
 - seed
-- sy0-061
 - data
 ---
  - Tags data so it can be managed through the [Information Life Cycle](notes/Information%20Life%20Cycle%20Management.md) 
@@ -16,4 +15,4 @@ tags:
 	 - Critical (top secret)
 		 - Information is too valuable to allow any risk of its capture. Viewing is severely restricted.
 
-See also: [[Proprietary Information]], [[Private/Personal Data]], and [[notes/Sensitive Data]]
+See also: [[Proprietary Information]], [Personal Data](notes/Personal%20Data.md), and [[notes/Sensitive Data]]

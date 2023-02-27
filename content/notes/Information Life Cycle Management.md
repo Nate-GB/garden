@@ -1,7 +1,7 @@
 ---
 title: "Information Life Cycle Management"
 tags:
-- sy0-061
+- data
 - security
 - seed
 ---

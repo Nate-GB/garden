@@ -2,7 +2,7 @@
 title: "Data Processor"
 tags:
 - seed
-- sy0-061
+- data
 - security
 ---
 

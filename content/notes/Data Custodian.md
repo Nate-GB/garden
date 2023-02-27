@@ -2,7 +2,7 @@
 title: "Data Custodian"
 tags:
 - seed
-- sy0-061
+- data
 ---
 
 Responsible for access control, encryption, and backup/recovery measures.  Basically the guy who takes care of the hardware and storage aspect.

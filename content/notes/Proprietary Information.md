@@ -11,4 +11,4 @@ tags:
 - Obvious target for a company's competitors
 - May represent a counterfeiting opportunity, like movies, music, and books
 
-See also: [Private/Personal Data](Private/Personal%20Data), [Sensitive Data](notes/Sensitive%20Data.md), and [Data Classifications](notes/Data%20Classifications.md)
+See also: [Personal Data](notes/Personal%20Data.md), [Sensitive Data](notes/Sensitive%20Data.md), and [Data Classifications](notes/Data%20Classifications.md)

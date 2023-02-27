@@ -2,7 +2,7 @@
 title: "Edge Computing"
 tags:
 - seed
-- sy0-061
+- security
 ---
 
 Edge computing is devolved from [[Fog Computing]] and uses the following concepts:

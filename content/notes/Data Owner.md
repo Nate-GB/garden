@@ -3,7 +3,7 @@ title: "Data Owner"
 tags:
 - seed
 - security
-- sy0-061
+- data
 ---
 
 A senior (executive) role with ultimate responsibility for maintaining the confidentiality, integrity, and availability of the information asset.
