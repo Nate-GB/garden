@@ -22,6 +22,8 @@ This whole thing is powered by [Quartz](https://github.com/jackyzha0/quartz/) so
 
 A good way to think about the three categories is that seeds are notecards, saplings are articles, and fruit are essays.  
 
-With all that out of the way, let's get growing!
+You can also view just the [[tags]] to view by topic!
+
+**With all that out of the way, let's get growing!** 
 
 
