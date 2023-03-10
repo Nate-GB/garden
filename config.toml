@@ -1,4 +1,4 @@
-baseURL = "https://nategb.com/garden/"
+baseURL = "https://garden.nategb.com"
 languageCode = "en-us"
 relativeURLs = false
 disablePathToLower = true
