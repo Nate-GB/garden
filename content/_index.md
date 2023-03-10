@@ -24,6 +24,8 @@ A good way to think about the three categories is that seeds are notecards, sapl
 
 You can also view just the [[tags]] to view by topic!
 
+Click [HERE](https://nate-gb.github.io/) to go back to the main site page.
+
 **With all that out of the way, let's get growing!** 
 
 
