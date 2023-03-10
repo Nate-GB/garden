@@ -18,6 +18,6 @@ There are 4 main phases to the software development lifecycle:
 4. Testing
 	1. Testing checks that the program meets the goal
 
-There are 2 main methods of implementing the software development lifecycle: the [[Waterfall Approach]] and the [[Agile Approach]].
+There are 2 main methods of implementing the software development lifecycle: the [[notes/Waterfall Approach]] and the [[notes/Agile Approach]].
 
 Agile involves continuous development, testing, and integration and is by far the more flexible of the two.  It revolves around implementing deliverables piece-by-piece rather than all at once.  In contrast, the Waterfall Approach delivers the entire project at once, but suffers from lack of customer feedback and longer overall deliverable timelines.
