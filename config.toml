@@ -1,4 +1,4 @@
-baseURL = "https://nate-gb.github.io/garden/"
+baseURL = "https://nategb.com/garden/"
 languageCode = "en-us"
 relativeURLs = false
 disablePathToLower = true
