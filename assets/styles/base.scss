@@ -360,11 +360,9 @@ hr {
 
 header {
   display: flex;
-  justify-content: center;
+  flex-direction: row;
   align-items: center;
-  position: relative;
-  padding: 20px;
-  background: var(--dark);
+  margin: 1em 0 2em;
 
   & > h1 {
     font-size: 2em;
